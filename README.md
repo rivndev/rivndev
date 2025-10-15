@@ -5,7 +5,6 @@
 [![YouTube badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white)](https://youtube.com/@rivenintech)
 [![Stackoverflow badge](https://img.shields.io/badge/-StackOverflow-f48225?style=flat-square&labelColor=f48225&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14048071)
 [![Frontend Mentor badge](https://img.shields.io/badge/-Frontend%20Mentor-3F54A3?style=flat-square&labelColor=3F54A3&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/rivenintech)
-[![HackerRank badge](https://img.shields.io/badge/-HackerRank-21b857?style=flat-square&labelColor=21b857&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rivenintech)
 [![LeetCode badge](https://img.shields.io/badge/-LeetCode-F79E1B?style=flat-square&labelColor=F79E1B&logo=leetcode&logoColor=white)](https://leetcode.com/u/rivenintech/)
 
 I'm a passionate developer from Poland, interested in anything tech-related. 🛠️🌐
