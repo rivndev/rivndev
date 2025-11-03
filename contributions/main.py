@@ -44,7 +44,7 @@ def group_prs(pull_requests):
 
         if repo not in grouped_prs:
             grouped_prs[repo] = {
-                "url": f"https://github.com/{repo}/pulls/{pr["user"]["login"]}",
+                "url": f"https://github.com/{repo}/pulls?q=is%3Apr+author%3A{pr["user"]["login"]}",
                 "description": get_repo_description(repo),
                 "open": 0,
                 "merged": 0,
