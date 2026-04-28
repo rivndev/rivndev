@@ -13,7 +13,7 @@ I'm a passionate developer from Poland, interested in anything tech-related. �
 
 ## 🚀 GitHub Contributions
 
-- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot/pulls?q=is%3Apr+author%3Arivenintech) (🟣 7 merged) - *"Create Reddit Videos with just✨ one command ✨"*
+- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot/pulls?q=is%3Apr+author%3Arivenintech) (🟣 4 merged) - *"Create Reddit Videos with just✨ one command ✨"*
 - [AnimePlanet-OpenSorce/AnimePlanet](https://github.com/AnimePlanet-OpenSorce/AnimePlanet/pulls?q=is%3Apr+author%3Arivenintech) (🟢 2 open)
 - [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server/pulls?q=is%3Apr+author%3Arivenintech) (🟢 1 open) - *"🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers"*
 
