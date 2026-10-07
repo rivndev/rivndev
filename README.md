@@ -15,6 +15,7 @@ I'm a passionate developer from Poland, interested in anything tech-related. �
 
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot/pulls?q=is%3Apr+author%3Arivndev) (🟣 7 merged) - *"Create Reddit Videos with just✨ one command ✨"*
 - [AnimePlanet-OpenSorce/AnimePlanet](https://github.com/AnimePlanet-OpenSorce/AnimePlanet/pulls?q=is%3Apr+author%3Arivndev) (🟢 2 open)
+- [chromaui/chromatic-docs](https://github.com/chromaui/chromatic-docs/pulls?q=is%3Apr+author%3Arivndev) (🟣 1 merged) - *"Chromatic documentation site "*
 - [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server/pulls?q=is%3Apr+author%3Arivndev) (🟢 1 open) - *"🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers"*
 
 <br>
